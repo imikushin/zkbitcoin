@@ -2756,6 +2756,7 @@ dependencies = [
  "base64 0.21.7",
  "bitcoin",
  "bitcoincore-rpc",
+ "byteorder",
  "chrono",
  "clap",
  "env_logger",

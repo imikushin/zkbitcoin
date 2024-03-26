@@ -45,6 +45,7 @@ versions = "6.1.0"
 xml = "0.8.10"
 fancy-regex = "0.13.0"
 chrono = "0.4.33"
+byteorder = "1.4.3"
 
 [patch.crates-io]
 # see docs/serialization.md
