@@ -171,7 +171,7 @@ pub fn rollup_validator(
 mod tests {
     use std::collections::HashMap;
 
-    use crate::tada::{Data, Utxo, UtxoId, zk_meme_token_policy};
+    use crate::toad::{Data, Utxo, UtxoId, zk_meme_token_policy};
 
     #[test]
     fn test_zk_meme_token_validator() {
